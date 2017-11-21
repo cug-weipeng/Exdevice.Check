@@ -16,4 +16,5 @@ namespace Exdevice.Check.UI
             InitializeComponent();
         }
     }
+
 }
