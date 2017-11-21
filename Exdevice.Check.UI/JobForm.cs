@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Exdevice.Check.UI
 {
-    public partial class Form1 : DevExpress.XtraEditors.XtraForm
+    public partial class JobForm : DevExpress.XtraEditors.XtraForm
     {
-        public Form1()
+        public JobForm()
         {
             InitializeComponent();
         }
